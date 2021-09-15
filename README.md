@@ -1,9 +1,13 @@
 # Servidor-Debian10
-Passo a passo para instalar o servidor Debian 10
-hfcmhvgjgh
-igvkuvgk,jbjgfjcvj
-hgvjgvhgvghg
-kgvmgvhg
-,jgvfkgfvmhgcnfcng
-fjhdfgndghndhgndhgj
-dghjgdhjghjd
+Instalar o SO
+Inserir o nome da máquina
+Definir senha
+Criar nome e senha de usuário
+Método de particionamento 
+Partição de disco
+Tipo/esquema de partição
+Difinir o espaço em disco
+Escolher idioma
+Selecionar o espelho do repositório Debian
+Escolha o software a ser instalado
+Finalizar instação 
